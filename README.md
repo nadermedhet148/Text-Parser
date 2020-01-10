@@ -1,4 +1,4 @@
-**Text Parser **
+**Text Parser**
 
 This projectIs for get values from text By compare it to similar Text as template
 
@@ -7,7 +7,7 @@ This projectIs for get values from text By compare it to similar Text as templat
 - Get values from text 
 - Get similarity percentage for the two text 
 
-**Example **
+**Example**
 
 **Text** :
 > 	Your Credit Card ****3933 had a Successful transaction of EGP 203.15 @ORANGE KARGO MALL,your available bal.EGP20.28 for lost/stolen card call 19700
