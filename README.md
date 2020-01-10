@@ -16,7 +16,7 @@ This projectIs for get values from text By compare it to similar Text as templat
 
 >	 Your Credit Card ****$card had a Successful transaction of $AmountCurrency $amount $beneficiary ,your available bal.$BalanceCurrency$balance for lost/stolen card call 19700
 
-**Returned values **`
+**Returned values **
 
 > 	{
 	'$AmountCurrency': 'EGP',
